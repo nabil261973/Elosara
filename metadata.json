@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix سوق الأسر المنتجة - Multi-Vendor Marketplace",
+  "description": "منصة سوق إلكتروني متعدد الموردين (الأسر المنتجة) تضمن الإدارة الثلاثية (العميل، المورد، المدير) مع تحكم كامل بالصلاحيات وسلة الأسر المنفصلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
